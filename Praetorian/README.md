@@ -1,1 +1,1 @@
-My solution for the [Praetorian Pwnable Challenge](https://github.com/b3b0p831/CTFs)
+My solution for the [Praetorian Pwnable Challenge](https://www.praetorian.com/challenges/pwnable/)
